@@ -2,7 +2,8 @@
 
 Rylafax is a wrapper gem for use with Hylafax Server. After configuring a Hylafax server use this gem to easily recieve and send faxes from with-in your ruby app.
 
-## Prerequisites
+NOTE: As of now we are not ready for prime time.
+<!-- ## Prerequisites
 
 You must have a hylafax server set up and running. This is up to you at this moment. In the future we plan to add a tutorial to aid in setting up your own Hylafax server.
 
@@ -40,4 +41,4 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/ray-hu
 
 ## License
 
-The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT). -->
