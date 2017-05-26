@@ -1,8 +1,11 @@
 # Rylafax
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rylafax`. To experiment with that code, run `bin/console` for an interactive prompt.
+Rylafax is a wrapper gem for use with Hylafax Server. After configuring a Hylafax server use this gem to easily recieve and send faxes from with-in your ruby app.
 
-TODO: Delete this and the text above, and describe your gem
+## Prerequisites
+
+You must have a hylafax server set up and running. This is up to you at this moment. In the future we plan to add a tutorial to aid in setting up your own Hylafax server.
+
 
 ## Installation
 
@@ -32,7 +35,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/rylafax. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ray-hughes/rylafax. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
 ## License
